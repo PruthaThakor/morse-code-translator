@@ -123,3 +123,5 @@ Takes 30 seconds. Appreciated, not required.
   [npm-version]: https://img.shields.io/npm/v/@ozdemirburak/morse-code-translator.svg?style=flat-square
   [npm-downloads]: https://img.shields.io/npm/dm/@ozdemirburak/morse-code-translator.svg?style=flat-square
   [npm]: https://www.npmjs.com/package/@ozdemirburak/morse-code-translator
+
+This repository was forked/cloned and modified as part of an internship GitHub learning exercise.
